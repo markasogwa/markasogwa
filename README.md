@@ -20,19 +20,12 @@ Full-stack platform for instant airtime and data purchase with Paystack integrat
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=markasogwa&show_icons=true&theme=radical)
-<!-- Try this first -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=markasogwa&show_icons=true&theme=radical)
-
 <!-- If above doesn't work, this usually does -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=markasogwa&theme=radical)
 
-<!-- Language stats (usually very reliable) -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=markasogwa&layout=compact&theme=radical)
-
 ### Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asogwa-mark-okechukwu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mark-portfolio-website.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asogwaoke@gmail.com)
 
