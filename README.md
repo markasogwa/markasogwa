@@ -1,6 +1,6 @@
 # Hi, I'm Mark Asogwa 👋
 
-## Full-Stack Developer | Payment Integration Specialist
+## Full-Stack Developer | JavaScript & Node.js
 
 I build modern web applications with a focus on seamless payment experiences and user-centric design.
 
