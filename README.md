@@ -21,6 +21,14 @@ Full-stack platform for instant airtime and data purchase with Paystack integrat
 ### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=markasogwa&show_icons=true&theme=radical)
+<!-- Try this first -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=markasogwa&show_icons=true&theme=radical)
+
+<!-- If above doesn't work, this usually does -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=markasogwa&theme=radical)
+
+<!-- Language stats (usually very reliable) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=markasogwa&layout=compact&theme=radical)
 
 ### Connect With Me
 
